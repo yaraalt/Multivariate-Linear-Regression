@@ -1,5 +1,5 @@
 # Multivariate-Linear-Regression
-Multivariate linear regression on graduate admission dataset to predict the chance of admission to a graduate program. The dataset contains several features which are considered important during the application for Masters Programs. The features are:
+Multivariate linear regression model, on graduate admission dataset, to predict the chance of admission to a graduate program. The dataset contains several features which are considered important during the application for Masters Programs. The features are:
 1. GRE Scores (out of 340).
 2. TOEFL Scores (out of 120).
 3. University Rating (out of 5).
